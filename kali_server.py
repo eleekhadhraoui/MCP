@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-# Kali Linux Tools API Server with full endpoints (corrected & hardened)
 
 import argparse
 import logging
